@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Ecology, University of Otago, 2010-2012
+* M.S. in Botany, University of Otago, 2014-2015
+* Ph.D in Microbiology, University of Otago, 2018-now
 
 Work experience
 ======
@@ -29,13 +29,35 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technical skills:
+  * Familiar with Windows and Mac operating systems
+  * Familiar with Github and Stackoverflow
+  * Experience in NeSI services and Slurm language
+  * Experience in R, Python and shell scripts
+  * Experience in tutoring and demonstrating
+  * Certified in software carpentry instruction
+  * Familiar with research laboratory environment
+  * General knowledge and laboratory skills in health science
+  * Good oral communication and presentation skills 
+  * Experience in academic writing
 
+* Team player:
+  * Undertaken team projects in an academic environment
+  * Member of the organizing committee of an international event
+  * Interacted positively with people at all levels
+  * Willing to lend a hand to anyone who needs help
+  * Working with other team members cooperatively to get the job done
+
+* Positive attitude:
+  * Always initiative and self-motivated
+  * Determination to complete challenging tasks and meet deadlines
+  * Efficient and punctual time management and good in multitasking
+  * Work independently under pressure
+  * Keen to improve current understanding and acquire new skills
+  * Able to grasp new concepts quickly and efficiently
+
+  
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
