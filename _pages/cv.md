@@ -17,16 +17,28 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020: Senior lab demonstrator (part-time)
+  * University of Otago
+  * Duties included: Guide and supervise students during practical laboratory sessions, instruct online sessions to provide remote supports for students.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2019: Microbial ecology tutor (part-time)
+  * University of Otago
+  * Duties included: Give one on one tutoring sessions with studying microbial ecology.
+
+* 2016-2018: Research Assistant (full-time)
+  * Department of Microbiology and Immunology, University of Otago
+  * Duties included: Conduct experimental based research projects and extensive data analyses.
+  * Supervisor: Dr. Xochitl Morgan
+
+
+* 2015-2016: Sample collection personnel (part-time)
+  * Zenith Technology Ltd.
+  * Duties included: 	Collecting biological samples during clinical trial, monitoring participants and report issue to trail supervisor.
+
+* 2014-2015: Home tutor (volunteer)
+  * English Language Partners
+  * Assisting new immigrants to settle down in New Zealand, helping with their English speaking for daily uses.
+
 Skills
 ======
 * Technical skills:
