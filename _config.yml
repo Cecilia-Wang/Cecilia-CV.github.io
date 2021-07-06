@@ -13,7 +13,7 @@ name                     : &name "Cecilia Wang"
 description              : &description "Senior PhD student working on Microbiology and bioinformatics, University of Otago"
 url                      : https://Cecilia-Wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "Cecilia-Wang.github.io/Cecilia-CV.github.io/"
+repository               : "Cecilia-Wang/Cecilia-Wang.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
