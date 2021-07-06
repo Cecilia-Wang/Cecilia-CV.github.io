@@ -11,9 +11,9 @@ title                    : "XinYue (Cecilia) Wang / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Cecilia Wang"
 description              : &description "Senior PhD student working on Microbiology and bioinformatics, University of Otago"
-url                      : https://Cecilia-CV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Cecilia-CV.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "cecilia-wang.github.io/Cecilia-CV.github.io/"
+url                      : https://Cecilia-Wang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+repository               : "Cecilia-Wang.github.io/Cecilia-CV.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "XinYue(Cecilia) Wang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Dunedin (New Zealand)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cecilia89420@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Cecilia-Wang"
   google_plus      :
   keybase          :
   instagram        :
