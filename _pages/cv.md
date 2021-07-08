@@ -47,7 +47,7 @@ Skills
   * Experience in NeSI services and Slurm language
   * Experience in R, Python and shell scripts
   * Experience in tutoring and demonstrating
-  * Certified in software carpentry instruction
+  * Certified software carpentry instructor
   * Familiar with research laboratory environment
   * General knowledge and laboratory skills in health science
   * Good oral communication and presentation skills 
