@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <html>
-<body background="https://i.pinimg.com/736x/d1/07/29/d107292c160053baa8e5b052b20c4fdc.jpg"; background-color:rgba(0,0,0,0.6)>
+<body background="https://i.pinimg.com/736x/d1/07/29/d107292c160053baa8e5b052b20c4fdc.jpg"; rgba(0,0,0,0.6)>
    <font size="16"> Hello, </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
