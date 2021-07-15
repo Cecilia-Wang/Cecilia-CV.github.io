@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <html>
-<body background="images/CatLove.jpg">
+<body background="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Flight-grey-background-with-dna-strand&psig=AOvVaw0rVGLypSOnT7-VvL2r_zRM&ust=1626475185154000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC7tLeS5vECFQAAAAAdAAAAABAN">
    <font size="16"> Hello </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
 
-<p style="font-family: times, serif; font-size:11pt; font-style:bold italic">
+<p style="font-family: times, serif; font-size:14pt; font-style:italic">
     Research field
  </p>
 <p> 
