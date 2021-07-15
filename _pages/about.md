@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 <div id="content">Only one div needed</div>
-
 div#content {
-    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.niehs.nih.gov%2Fresearch%2Fsupported%2Ftranslational%2Fpeph%2Fpodcasts%2F2015%2Fmar2_microbiome%2Fimg842498.jpg&imgrefurl=https%3A%2F%2Fwww.niehs.nih.gov%2Fresearch%2Fsupported%2Ftranslational%2Fpeph%2Fpodcasts%2F2015%2Fmar2_microbiome%2Findex.cfm&tbnid=ZBr_KDs1Wnb7cM&vet=12ahUKEwjW-9_mh-bxAhUPV30KHRD4DvMQMygdegUIARDyAQ..i&docid=GCdhxiqyp6H18M&w=1000&h=1000&q=environmental%20microbiome&ved=2ahUKEwjW-9_mh-bxAhUPV30KHRD4DvMQMygdegUIARDyAQ);
+    background-image: url(images/CatLove.jpg);
     background-color: rgba(255,255,255,0.6);
     background-blend-mode: lighten;
     width: 200px;
@@ -19,8 +18,30 @@ div#content {
     position: relative;
 }
 
- <font size="20"> Hello </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
+div {
+  width: 200px;
+  height: 200px;
+  display: block;
+  position: relative;
+}
 
+div::after {
+  content: "";
+  background: url(images/CatLove.jpg);
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+ <font size="16"> Hello </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
+
+<p style="font-family: times, serif; font-size:11pt; font-style:bold italic">
+    Research field
+</p>
 I am interested in microbiome research and bioinformatics, enjoying working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
 
 
