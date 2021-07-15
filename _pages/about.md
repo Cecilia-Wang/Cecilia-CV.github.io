@@ -36,6 +36,7 @@ div::after {
   position: absolute;
   z-index: -1;   
 }
+{data-background="images/CatLove.jpg"}
 
  <font size="16"> Hello </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
 
