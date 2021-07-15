@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
+
+ <font size="20"> Hello </font> 
+ This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
 
 I am interested in microbiome research and bioinformatics, enjoying working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
 
