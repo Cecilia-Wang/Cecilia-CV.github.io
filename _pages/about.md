@@ -9,20 +9,28 @@ redirect_from:
 ---
 
 <html>
-<body background-image:url("https://i.pinimg.com/736x/d1/07/29/d107292c160053baa8e5b052b20c4fdc.jpg")>
-   <font size="16"> Hello </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
-
-<p style="font-family: times, serif; font-size:14pt; font-style:italic">
-    Research field
- </p>
-<p> 
-  I am interested in microbiome research and bioinformatics, enjoying working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
-</p>
+<body background="https://i.pinimg.com/736x/d1/07/29/d107292c160053baa8e5b052b20c4fdc.jpg">
+   <font size="16"> Hello, </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
+  
+  <p style="font-family: times, serif; font-size:14pt; font-style:italic">
+    Microbial Ecologist wanting to work as a Bioinformatician
+  </p>
+  <p> 
+  I am interested in environmental microbiome research, experienced in working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
+  </p>
+  
+  <p style="font-family: times, serif; font-size:14pt; font-style:italic">
+    A cat person
+  </p>
+  <p> 
+    I have a spoiled pet cat named Zuki. As all my family members are far away from New Zealand (where I am), Zuki did a great job as my emotional support throughout my PhD. 
+  </p>
+  <img class="cover" src="images/Zuki.heic" alt="Zuki's image">
 </body>
 </html>
 
 
-<img class="cover" src="images/CatLove.jpg" alt="test image">
+
 
 
 
