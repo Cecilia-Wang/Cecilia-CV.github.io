@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!--
 <div id="content">Only one div needed</div>
 div#content {
     background-image: url(images/CatLove.jpg);
@@ -37,7 +38,9 @@ div::after {
   z-index: -1;   
 }
 {data-background="images/CatLove.jpg"}
+-->
 
+<img class="cover" src="images/CatLove.jpg" alt="test image">
  <font size="16"> Hello </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
 
 <p style="font-family: times, serif; font-size:11pt; font-style:bold italic">
