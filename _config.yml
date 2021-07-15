@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "XinYue(Cecilia) Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Final year PhD student major in Microbiology, University of Otago. Analysing microbiome NGS data makes me super happy!"
   location         : "Dunedin (New Zealand)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=N2s84QoAAAAJ"
   email            : "cecilia89420@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
