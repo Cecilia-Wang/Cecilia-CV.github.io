@@ -12,8 +12,9 @@ redirect_from:
 <body>
 <style>
 body {
-  background-image: url('https://img.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-325.jpg?size=626&ext=jpg');
+  background-image: url('https://preview.pixlr.com/images/800wm/100/1/1001442955.jpg');
   background-repeat: no-repeat;
+  background-size: cover;
 }
 </style>
 
