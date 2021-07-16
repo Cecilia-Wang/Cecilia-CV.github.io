@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal webpage"
+title: "Welcome to My Personal Webpage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -27,9 +27,9 @@ redirect_from:
   <p> 
     I have a spoiled pet cat named Zuki. As all my family members are far away from New Zealand (where I am), Zuki did a great job as my emotional support throughout my PhD. 
   </p>
-  
-</body>
   <img class="cover" src="images/Zuki.jpg" alt="My little prince">
+</body>
+  
 
 </html>
 
