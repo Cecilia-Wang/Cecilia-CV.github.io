@@ -6,4 +6,11 @@ Here are links to a few main webpages:
 - [Field of interests]()
 - [More about myself]()
 
-<!--test -->
+<!-- 
+Note for CV 
+Use strong and clear language, e.g. fully versed, expertize in something
+treat like a science paper
+Projects involved in 
+  title, summary, position
+publication list (include Impact factor, quatiar of jounal, and potentially citations)
+skills and evidence to support it -->
