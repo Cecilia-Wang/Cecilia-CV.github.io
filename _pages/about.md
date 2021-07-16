@@ -10,17 +10,18 @@ redirect_from:
 
 <html>
 <body background="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-cellular-and-infection-microbiology.png">
-   <font size="16"> Hello, </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
+   <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a final year PhD student (the University of Otago). 
   
-  <p> </p>
+  <p>I came to New Zealand at the end of 2009, I enjoied my time at Otago, extracting DNA or RNA from hundreds of samples within a short deadline; scripting throughout the night to make a figure for a manuscript; appling for my first grant (and got it); helping students and collegues with coding. No dought all those laughs and tears would stick with me for the rest of my life. </p>
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
     Microbial Ecologist wanting to work as a Bioinformatician
   </p>
   <p> 
-    I am interested in environmental microbiome research, experienced in working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
-    I enjoy my University days, as it is coming to an end as a postgrad student, all the experience I had would stick with me and would definetly  is a lot of fun. Extracting DNA or RNA from hundreds of samples within a limited amount of time; scripting throughout the night to meet the deadline of a grant application; helping students and collegues with coding.
-  </p>
+    I am interested in environmental microbiome research, experienced in working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications. </p>
+  <p>
+   
+  </p> and  Now my PhD process is coming to an end, is a lot of fun. 
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
     A cat person
