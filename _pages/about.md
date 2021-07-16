@@ -12,7 +12,8 @@ redirect_from:
 <body background="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-cellular-and-infection-microbiology.png">
    <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a final year PhD student (the University of Otago). 
   
-  <p>I came to New Zealand at the end of 2009, I enjoied my time at Otago, extracting DNA or RNA from hundreds of samples within a short deadline; scripting throughout the night to make a figure for a manuscript; appling for my first grant (and got it); helping students and collegues with coding. No dought all those laughs and tears would stick with me for the rest of my life. </p>
+  <p>I came to New Zealand in 2009, couldn't wait to start my new adventure in Otago Uni. To be honest, the first year of my bachelor study was not great. I was struggling following along with the lectures, especially with some lecturers, who speak very fast, at least a lot faster than the listening part of any English tests I took. Fortunately I didn't give up but kept trying, then managed to graduate with a master degree and found a research assistant position in the department of Microbiology and Immunology</p>
+  <p>I enjoied my time at Otago, extracting DNA or RNA from hundreds of samples within a short deadline; scripting throughout the night to make a figure for a manuscript; appling for my first grant (and got it); helping students and collegues with coding. No dought all those laughs and tears would stick with me for the rest of my life. </p>
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
     Microbial Ecologist wanting to work as a Bioinformatician
