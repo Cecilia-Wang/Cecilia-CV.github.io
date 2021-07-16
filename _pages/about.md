@@ -9,7 +9,14 @@ redirect_from:
 ---
 
 <html>
-<body background="https://img.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-325.jpg?size=626&ext=jpg">
+<body>
+<style>
+body {
+  background-image: url('https://img.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-325.jpg?size=626&ext=jpg');
+  background-repeat: no-repeat;
+}
+</style>
+
    <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a final year PhD student (the University of Otago). 
   <p> </p>
   <p style="font-family: times, serif; color:black; font-size:16pt; font-style:italic">
