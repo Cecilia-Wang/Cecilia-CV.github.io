@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <html>
-<body background="https://t4.ftcdn.net/jpg/03/20/64/89/360_F_320648953_f7ftQIs8AsehZkK8FhGwfhqclSizCGmh.jpg">
+<body background="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-cellular-and-infection-microbiology.png">
    <font size="16"> Hello, </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
   
   <p> </p>
@@ -29,7 +29,7 @@ redirect_from:
   </p>
   
 </body>
-  <img class="cover" src="images/Zuki.jpg" alt="/nMy little prince">
+  <img class="cover" src="images/Zuki.jpg" alt="My little prince">
 
 </html>
 
