@@ -11,18 +11,20 @@ redirect_from:
 <html>
 <body background="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-cellular-and-infection-microbiology.png">
    <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a final year PhD student (the University of Otago). 
-  
-  <p>I came to New Zealand in 2009, couldn't wait to start my new adventure in Otago Uni. To be honest, the first year of my bachelor study was not great. I was struggling following along with the lectures, especially with some lecturers, who speak very fast, at least a lot faster than the listening part of any English tests I took. Fortunately I didn't give up but kept trying, then managed to graduate with a master degree and found a research assistant position in the department of Microbiology and Immunology</p>
+  <p style="font-family: times, serif; font-size:14pt; font-style:italic">
+    About myself
+  </p>
+  <p>I came to New Zealand (NZ) in 2009, couldn't wait to start my new adventure in Otago Uni. To be honest, the first year of my bachelor study was not great. I was struggling following along with the lectures, especially with some lecturers, who speak very fast, at least a lot faster than the listening part of any English tests I took. Fortunately I didn't give up but kept trying, then managed to graduate with a master degree and found a research assistant position in the department of Microbiology and Immunology</p>
   <p>I enjoied my time at Otago, extracting DNA or RNA from hundreds of samples within a short deadline; scripting throughout the night to make a figure for a manuscript; appling for my first grant (and got it); helping students and collegues with coding. No dought all those laughs and tears would stick with me for the rest of my life. </p>
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
-    Microbial Ecologist wanting to work as a Bioinformatician
+    Research: Microbial Ecology & Bioinformatics
   </p>
   <p> 
-    I am interested in environmental microbiome research, experienced in working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications. </p>
-  <p>
-   
-  </p> and  Now my PhD process is coming to an end, is a lot of fun. 
+    My research falls into a main category: understanding agriculture microbiomes and the interactions between them, with an amphasize on using NGS data to reveal the biological and biochemical mechanisms with the settings of pasture farms. Apart from looking at microbiomes across farm niches (or ecological habitats), another focus of my research is the rumen microbiomes and the application on mitigating enteric methane emissions. Details of the main projects can be found 
+    <a href="https://cecilia-wang.github.io/projects/">here</a>
+    </p>
+
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
     A cat person
