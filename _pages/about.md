@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 <html>
-<body background="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-cellular-and-infection-microbiology.png">
+<body background="https://img.freepik.com/free-photo/old-gray-cement-wall-backgrounds_34552-325.jpg?size=626&ext=jpg">
    <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a final year PhD student (the University of Otago). 
+  <p> </p>
   <p style="font-family: times, serif; color:black; font-size:16pt; font-style:italic">
     About myself
   </p>
