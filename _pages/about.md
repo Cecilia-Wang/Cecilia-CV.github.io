@@ -18,14 +18,15 @@ redirect_from:
     Microbial Ecologist wanting to work as a Bioinformatician
   </p>
   <p> 
-  I am interested in environmental microbiome research, experienced in working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
+    I am interested in environmental microbiome research, experienced in working with NGS data, automating data analyses pipelines, making pretty and professional figures for publications.
+    I enjoy my University days, as it is coming to an end as a postgrad student, all the experience I had would stick with me and would definetly  is a lot of fun. Extracting DNA or RNA from hundreds of samples within a limited amount of time; scripting throughout the night to meet the deadline of a grant application; helping students and collegues with coding.
   </p>
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
     A cat person
   </p>
   <p> 
-    I have a spoiled pet cat named Zuki. As all my family members are far away from New Zealand (where I am), Zuki did a great job as my emotional support throughout my PhD. 
+    I have a spoiled pet cat named Zuki. As all my family members are far away from New Zealand (where I am), Zuki is my emotional support throughout my PhD. 
   </p>
   <img class="cover" src="images/Zuki.jpg" alt="My little prince">
 </body>
