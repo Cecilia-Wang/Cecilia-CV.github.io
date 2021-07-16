@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 <html>
-<body>
+<body background="https://t4.ftcdn.net/jpg/03/20/64/89/360_F_320648953_f7ftQIs8AsehZkK8FhGwfhqclSizCGmh.jpg">
    <font size="16"> Hello, </font> This is XinYue Wang's homepage. I am also known as Cecilia, a final year PhD student from the University of Otago. 
+  
+  <p> </p>
   
   <p style="font-family: times, serif; font-size:14pt; font-style:italic">
     Microbial Ecologist wanting to work as a Bioinformatician
@@ -27,21 +29,10 @@ redirect_from:
   </p>
   
 </body>
-  <img class="cover" src="images/Zuki.jpg" alt="test image">
+  <img class="cover" src="images/Zuki.jpg" alt="/nMy little prince">
 
 </html>
 
-body::after {
-  content: "";
-  background: url(http://ib1.keep4u.ru/b/070815/ef2714da63d5940bf5.jpg);
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;   
-}
 
 
 
