@@ -24,7 +24,7 @@ body {
     Research: Microbial Ecology & Bioinformatics
   </p>
   <p> 
-    My research falls into a main category: understanding agriculture microbiomes and the interactions between them, with an amphasize on using NGS data to reveal the biological and biochemical mechanisms with the settings of pasture farms. Apart from looking at microbiomes across farm niches (or ecological habitats), another focus of my research is the rumen microbiomes and the application on mitigating enteric methane emissions. Details of the main projects can be found 
+    My research falls into a main category: understanding agriculture microbiomes and the interactions between them, with an amphasize on using NGS data to reveal the biological and biochemical mechanisms with the settings of pasture farms. Apart from looking at microbiomes across farm niches (or ecological habitats), another focus of my research is the rumen microbiomes and the application on mitigating enteric methane emissions. Summaries of the main projects that I involved can be found 
     <a href="https://cecilia-wang.github.io/projects/">here</a>
     </p>
 
