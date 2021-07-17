@@ -36,6 +36,7 @@ body {
     I have a spoiled pet cat named Zuki. As all my family members are far away from New Zealand (where I am), Zuki is my emotional support throughout my PhD. 
   </p>
   <img class="cover" src="images/Zuki.jpg" alt="My little prince">
+  <p> </p>
   <p style="font-family: times, serif; color:black; font-size:16pt; font-style:italic">
     I have many hobbies
   </p>
