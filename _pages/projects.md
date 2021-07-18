@@ -13,9 +13,10 @@ The goal of the OLW project was to improve the land sustainabilities base on a c
 
 My involvement in OLW projects was to understand microbiomes across farm niches and their interactions, based on amplicon and omics data. In addition, by introducing a distrubance (urea) to soils, we would be able to test if and how the neighbourhood microbiomes respond to disturbances in soils. A manuscript was drafted and in review, titled "Soil Nitrogen Treatment Alters Microbiome Networks Across Farm Niches". 
 
-<imgclass="cover" src="images/olw_ab.JPG" alt="olw">
+<imgclass="cover" src="images/olw_ab.jpg" alt="olw">
 
 ## Alternative Hydrogen Sinks in the Rumen Environment
+
 
 
 
