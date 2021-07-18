@@ -6,7 +6,7 @@ excerpt: 'This paper is about researching alternative hydrogen sinks in the rume
 date: 2019-06-26
 venue: 'The ISME Journal'
 paperurl: 'https://www.nature.com/articles/s41396-019-0464-2.pdf'
-citation: 'Greening, Chris, Renae Geier, Cecilia Wang, Laura C. Woods, Sergio E. Morales, Michael J. McDonald, Rowena Rushton-Green et al. (2019). &quot;Paper Title Number 1.&quot; <i>The ISME Journal</i>. 13(10).'
+citation: 'Greening, Chris, Renae Geier, Cecilia Wang, Laura C. Woods, Sergio E. Morales, Michael J. McDonald, Rowena Rushton-Green et al. (2019). &quot; Diverse hydrogen production and consumption pathways influence methane production in ruminants.&quot; <i>The ISME Journal</i>. 13(10).'
 ---
 
 **Abstract**
@@ -32,4 +32,4 @@ supplementation and methanogenesis inhibitors.
 
 [Download paper here](https://www.nature.com/articles/s41396-019-0464-2.pdf)
 
-Recommended citation: Greening, C., Geier, R., Wang, C., Woods, L. C., Morales, S. E., McDonald, M. J., ... & Mackie, R. I. (2019). Diverse hydrogen production and consumption pathways influence methane production in ruminants. The ISME journal, 13(10), 2617-2632.
+Recommended citation: Greening, Chris, Renae Geier, Cecilia Wang, Laura C. Woods, Sergio E. Morales, Michael J. McDonald, Rowena Rushton-Green et al. (2019). Diverse hydrogen production and consumption pathways influence methane production in ruminants. <i>The ISME Journal</i>. 13(10) 2617-2632.
