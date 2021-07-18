@@ -3,8 +3,8 @@ My webpage was built using a [Github Pages template](https://github.com/academic
 Here are links to a few main webpages:
 
 - [Up to date CV](https://cecilia-wang.github.io/cv/)
-- [Projects]()
-- [Homepage]()
+- [Projects](https://cecilia-wang.github.io/projects/)
+- [Homepage](https://cecilia-wang.github.io/)
 
 <!-- 
 Note for CV 
