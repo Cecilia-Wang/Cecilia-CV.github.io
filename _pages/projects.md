@@ -24,7 +24,7 @@ In this work, we used comparative genomic, metatranscriptomic, and co-culture-ba
 
 My role in this project was to develop and automate a pipeline to identify target genes that were either differentially abundant or differentially expressed using metagenome and metatranscriptomic data.
 
-Publication associated with this project is available [here](https://cecilia-wang.github.io/publication/Diverse_hydrogen_2019)
+Publication details associated with this project is available [here](https://cecilia-wang.github.io/publication/Diverse_hydrogen_2019)
 
 
 
