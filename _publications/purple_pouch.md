@@ -9,8 +9,12 @@ paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00275514.2020.1730120'
 citation: 'Nilsen, Andy R., Xin Yue Wang, Karl Soop, Jerry A. Cooper, Geoff S. Ridley, Michael Wallace, Tina C. Summerfield, Chris M. Brown, and David A. Orlovich. (2015). &quot;Purple haze: cryptic purple sequestrate Cortinarius in New Zealand &quot; <i>Mycologia </i>. 3(2020).'
 ---
 
-_Cortinarius porphyroideus_ is probably the most well-known purple pouch fungus in New Zealand, famous of having a bright purple cap that does not open up even at a it's maturity. 
+
+
 ![Purple pouch fungus stamp](https://nzfungi.com/wp-content/uploads/2020/09/2002-Native-Fungi_Stamp_1.50.png)
+
+_Cortinarius porphyroideus_ is probably the most well-known purple pouch fungus in New Zealand, famous of having a bright purple cap that does not open up even at a it's maturity. 
+
 In this study, NGS data were collected from multiple herbarium collections from distinct locations. we were able to show that what have been recognised as the famous _C. porphyroideus_ over the last century were actually polyphyletic.
 
 **Abstract**
