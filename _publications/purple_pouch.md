@@ -24,4 +24,3 @@ Cortinarius is a species-rich ectomycorrhizal genus containing taxa that exhibit
 
 [Download paper here](https://www.tandfonline.com/doi/full/10.1080/00275514.2020.1730120)
 
-Recommended citation: Nilsen, Andy R., Xin Yue Wang, Karl Soop, Jerry A. Cooper, Geoff S. Ridley, Michael Wallace, Tina C. Summerfield, Chris M. Brown, and David A. Orlovich. "Purple haze: cryptic purple sequestrate Cortinarius in New Zealand." Mycologia 112, no. 3 (2020): 588-605.
