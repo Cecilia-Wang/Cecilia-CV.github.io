@@ -31,5 +31,3 @@ emissions by increasing flux through alternative H2 uptake pathways, including t
 supplementation and methanogenesis inhibitors.
 
 [Download paper here](https://www.nature.com/articles/s41396-019-0464-2.pdf)
-
-Recommended citation: Greening, Chris, Renae Geier, Cecilia Wang, Laura C. Woods, Sergio E. Morales, Michael J. McDonald, Rowena Rushton-Green et al. (2019). Diverse hydrogen production and consumption pathways influence methane production in ruminants. <i>The ISME Journal</i>. 13(10) 2617-2632.
