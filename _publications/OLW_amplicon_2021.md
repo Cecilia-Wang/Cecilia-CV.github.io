@@ -15,5 +15,3 @@ Agriculture is fundamental for food production, and microbiomes support agricult
 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Wang, XinYue, Kerri Reilly, Ambarish Biswas, Linda Johnson, Suliana Teasdale, Gwen Grelet, Ana Podolyan, Pablo Gregorini, Graeme Attwood and Sergio Morales.(2021). &quot;Soil Nitrogen Treatment Alters Microbiome Networks Across Farm Niches. <i>in review</i>.
