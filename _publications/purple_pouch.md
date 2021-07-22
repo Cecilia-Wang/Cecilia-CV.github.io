@@ -2,14 +2,14 @@
 title: "Purple haze: cryptic purple sequestrate Cortinarius in New Zealand"
 collection: publications
 permalink: /publication/purple_pouch
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about a story of a famous NZ purple pouch fungus, being misunderstood about the phylogenetic variations.'
 date: 2020-04-21
 venue: 'Mycologia'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00275514.2020.1730120'
 citation: 'Nilsen, Andy R., Xin Yue Wang, Karl Soop, Jerry A. Cooper, Geoff S. Ridley, Michael Wallace, Tina C. Summerfield, Chris M. Brown, and David A. Orlovich. (2015). &quot;Purple haze: cryptic purple sequestrate Cortinarius in New Zealand &quot; <i>Mycologia </i>. 3(2020).'
 ---
 
-_Cortinarius porphyroideus_ is probably the most well-known purple pouch fungus in New Zealand, famous of having a bright purple cap that does not open up even at a it's maturity. 
+_Cortinarius porphyroideus_ is probably the most well-known purple pouch fungus in New Zealand, famous of having a bright purple cap that does not open up even at a its maturity. 
 
 In this study, NGS data were collected from multiple herbarium collections from distinct locations. we were able to show that what have been recognised as the famous _C. porphyroideus_ over the last century were actually polyphyletic.
 
