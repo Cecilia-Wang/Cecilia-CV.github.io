@@ -18,7 +18,7 @@ body {
 }
 </style>
 
-   <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a final year PhD student (the University of Otago). 
+   <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a postdoc fellow at the University of Otago currently working on <i>Mycobacteria tuberculosis<i>. 
   <p> </p>
   <p style="font-family: times, serif; color:black; font-size:16pt; font-style:italic">
     Research: Microbial Ecology & Bioinformatics
