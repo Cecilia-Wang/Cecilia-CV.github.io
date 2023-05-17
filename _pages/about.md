@@ -11,11 +11,7 @@ redirect_from:
 <html>
 <body>
 <style>
-body {
-  
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 </style>
 
    <font size="16"> Hello, </font> I am XinYue Wang, also known as Cecilia, a postdoc fellow at the University of Otago currently working on <i>Mycobacteria tuberculosis<i>. 
@@ -95,6 +91,13 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.-->
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+body {
+  background-image: url('https://preview.pixlr.com/images/800wm/100/1/1001442956.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+-->
 
 
