@@ -12,7 +12,7 @@ redirect_from:
 <body>
 <style>
 body {
-  #background-image: url('https://preview.pixlr.com/images/800wm/100/1/1001442956.jpg');
+  
   background-repeat: no-repeat;
   background-size: cover;
 }
