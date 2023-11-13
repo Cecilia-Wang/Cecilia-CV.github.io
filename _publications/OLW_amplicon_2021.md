@@ -2,7 +2,7 @@
 title: "Soil Nitrogen Treatment Alters Microbiome Networks Across Farm Niches"
 collection: publications
 permalink: /publication/OLW_amplicon_2021
-excerpt: 'This preprint is about the understanding of microbiomes across farm niches and their responses to nitrogen treatments.'
+excerpt: ''
 date: 2022-02-14
 venue: 'Frontiers in Microbiology'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fmicb.2021.786156/full'
