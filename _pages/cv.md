@@ -13,22 +13,28 @@ Education
 ======
 * B.S. in Ecology, University of Otago, 2010-2012
 * M.S. in Botany, University of Otago, 2014-2015
-* Ph.D in Microbiology, University of Otago, 2018-now
+* Ph.D in Microbiology, University of Otago, 2018-2022
 
 Work experience
 ======
+* 2022-current:Postdoctoral fellow (full-time)
+  * Department of Microbiology and Immunology, University of Otago
+  * Conduct lab experiment, data analyses, and manuscript preparation
+  * Guide and supervise students in the lab group
+  * Mentor: Dr. Matthew McNeil
+
 * 2020: Senior lab demonstrator (part-time)
   * University of Otago
-  * Duties included: Guide and supervise students during practical laboratory sessions, instruct online sessions to provide remote supports for students.
+  * Guide and supervise students during practical laboratory sessions, instruct online sessions to provide remote supports for students.
 
 * 2019: Microbial ecology tutor (part-time)
   * University of Otago
-  * Duties included: Give one on one tutoring sessions with studying microbial ecology.
+  * Give one on one tutoring sessions with studying microbial ecology.
 
 * 2016-2018: Research Assistant (full-time)
   * Department of Microbiology and Immunology, University of Otago
-  * Duties included: Conduct experimental based research projects and extensive data analyses.
-  * Supervisor: Dr. Xochitl Morgan
+  * Conduct experimental based research projects and extensive data analyses.
+  * Mentor: Dr. Xochitl Morgan
 
 
 * 2015-2016: Sample collection personnel (part-time)
